@@ -30,7 +30,7 @@ export default function Home({ allPostsData }) {
     </Head>
     <section className={utilStyle.headingMd}>
       <p>
-        日本のお笑いタレント/太田プロダクション所属/1977年2月2日生まれ/妻はタレントの大沢あかね
+        日本のNext.jsタレント/太田プロダクション所属/1977年2月2日生まれ/妻はタレントの大沢あかね
       </p>
     </section>
 
